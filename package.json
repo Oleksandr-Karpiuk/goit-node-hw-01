@@ -1,0 +1,24 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "0.0.1",
+  "description": "homework-01\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dgoit-\u001b[2~node\u001b[2~-hw-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oleksandr-Karpiuk/goit-node-hw-01.git"
+  },
+  "author": "Oleksandr Karpiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oleksandr-Karpiuk/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/Oleksandr-Karpiuk/goit-node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
